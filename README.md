@@ -17,7 +17,7 @@ Token173 聚合中转平台（https://token173.net）把 OpenAI、Anthropic、Go
 | 系列 | 模型 ID | 说明 |
 |---|---|---|
 | Claude | `claude-opus-5-5`、`claude-sonnet-5-5`、`claude-haiku-5-5` | 长文推理、代码重构主力 |
-| Claude | `claude-fable-5`、`claude-fable-5-1`、`claude-opus-4-8` | 上一代与创意写作线，兼容旧项目 |
+| Claude | `claude-fable-5-2`、`claude-fable-5-1`、`claude-fable-5`、`claude-opus-4-8` | 前沿任务线，5.2 最强，往下一档更便宜 |
 | OpenAI | `gpt-6-astra`、`gpt-6.1-sol`、`gpt-6.1-terra`、`gpt-6-sol` | 当前主推，复杂推理+场景规划 |
 | OpenAI | `gpt-5.6-sol`、`gpt-5.6-terra`、`gpt-5.5`、`gpt-5.4` | 老项目不换模型也能继续跑 |
 | Gemini | `gemini-3.8-flash`、`gemini-3-pro-preview` | Flash 走速度，Pro 走质量 |
