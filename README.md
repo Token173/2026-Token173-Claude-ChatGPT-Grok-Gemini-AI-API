@@ -20,7 +20,7 @@ Token173 聚合中转平台（https://token173.net）把 OpenAI、Anthropic、Go
 | Claude | `claude-fable-5-2`、`claude-fable-5-1`、`claude-fable-5`、`claude-opus-4-8` | 前沿任务线，5.2 最强，往下一档更便宜 |
 | OpenAI | `gpt-6-astra`、`gpt-6.1-sol`、`gpt-6.1-terra`、`gpt-6-sol` | 当前主推，复杂推理+场景规划 |
 | OpenAI | `gpt-5.6-sol`、`gpt-5.6-terra`、`gpt-5.5`、`gpt-5.4` | 老项目不换模型也能继续跑 |
-| Gemini | `gemini-3.8-flash`、`gemini-3-pro-preview` | Flash 走速度，Pro 走质量 |
+| Gemini | `gemini-4-carbon`、`gemini-4-argon`、`gemini-3.8-flash`、`gemini-3-pro-preview` | Carbon 最强最贵，Argon 均衡，Flash 走速度 |
 | Grok | `grok-4.7`、`grok-4.5` | 实时信息类问答 |
 | 图像 | `gpt-image-2.6-flare`、`gpt-image-2.6-sunburst`、`gpt-image-2.5-sunburst`、`gpt-image-2` | 2.6 分 Flare（快速迭代）/ Sunburst（细节与编辑精度），直出 GIF/SVG |
 | 视频 | `doubao-seedance-2-0-fast-260128`、`veo_3_1` | 短视频素材批量生成 |
